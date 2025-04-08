@@ -1,1 +1,1 @@
-# skill-lab-task
+Finding union and intersection of two sorted arrays using python.
